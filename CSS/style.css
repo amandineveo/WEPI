@@ -1,0 +1,37 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("https://fonts.googleapis.com/css?family=Amaranth");
+h2{
+	color: #FF702B ;
+	font-family: Amaranth,sans-serif;
+	font-size: 24px;
+	}
+body{
+	font-family: Bahnschrift;
+	background-color: white; 
+	color : grey;
+	}
+.img-circle{
+	border-radius: 50%;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.5);
+}
+
+
+.footer .footer-right .column_left{
+    width: 50%;
+    float : left;
+}
+
+
+.footer .footer-right .column_right{
+    width: 50%;
+    margin-left : 50%;
+}
+
+
+
+
+}
